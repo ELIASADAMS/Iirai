@@ -34,10 +34,8 @@ Official resources, installation instructions, usage tips, license terms, and ar
 
 ## Installation
 
-1. Download the ZIP archive: [イーライ Voicebank ZIP](https://example.com/irai_voicebank.zip)
+1. Download the ZIP archive: [イーライ Voicebank ZIP](https://github.com/ELIASADAMS/Iirai/releases/tag/Release)
 2. Unzip to your UTAU `voice` directory (usually `C:\Users\YourName\UTAU\voice`)
-3. Download and preview documentation: [イーライInfo.pdf](https://example.com/イーライInfo.pdf)
-4. For installation help: See [UTAU Voicebank Guide](https://utau.us/vb.html)
 
 ***
 
