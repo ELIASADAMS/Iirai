@@ -19,13 +19,13 @@ Official resources, installation instructions, usage tips, license terms, and ar
 
 ## About
 
-**イーライ (Iirai)** is a Japanese-language UTAUloid voicebank created by digital artist Ilya Minin (Eli). This voicebank is recorded using the VCCV method, providing smooth consonant-vowel transitions and reliable low-range vocal expression.
+**イーライ (Iirai)** is a Japanese-language UTAUloid voicebank created by digital artist Ilya Minin (Eli). This voicebank is recorded using the CVVC method, providing smooth consonant-vowel transitions and reliable low-range vocal expression.
 
 ***
 
 ## Features
 
-- Full VCCV Japanese recording method, optimized for natural consonant-vowel blending
+- Full CVVC Japanese recording method, optimized for natural consonant-vowel blending
 - Single pitch, most effective in lower registers for bass textures
 - Compatible with major UTAU resamplers, especially TIPS and wavtool4vcv
 - Sample rate: 16/48 kHz recommended
@@ -43,7 +43,7 @@ Official resources, installation instructions, usage tips, license terms, and ar
 
 - Use with TIPS or similar subsampling resamplers for the best blend and expression
 - Emphasizes natural consonant blends and stability in low-pitched singing
-- For Japanese projects, focus on the VCCV technique and maintain original sample rates
+- For Japanese projects, focus on the CVVC technique and maintain original sample rates
 
 ***
 
