@@ -1,6 +1,6 @@
-# イーライ (Iirai) UTAUloid Voicebank
+# 茜音イーライ (Akane Iirai) UTAU Voicebank
 
-Official resources, installation instructions, usage tips, license terms, and art credits for the イーライ (Iirai) singing synthesizer.
+Official resources, installation instructions, usage tips, license terms, and art credits for the 茜音イーライ (Akane Iirai) singing synthesizer.
 
 ***
 
@@ -19,7 +19,7 @@ Official resources, installation instructions, usage tips, license terms, and ar
 
 ## About
 
-**イーライ (Iirai)** is a Japanese-language UTAUloid voicebank created by digital artist Ilya Minin (Eli). This voicebank is recorded using the CVVC method, providing smooth consonant-vowel transitions and reliable low-range vocal expression.
+**茜音イーライ (Akane Iirai)** is a Japanese-language UTAU voicebank created by digital artist Ilya Minin (Eli). This voicebank is recorded using the CVVC method, providing smooth consonant-vowel transitions and reliable low-range vocal expression.
 
 ***
 
