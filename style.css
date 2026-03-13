@@ -1,14 +1,16 @@
 :root {
     /* Primary Colors */
-    --color-bg-primary: #faf8f6;
-    --color-bg-secondary: #ffffff;
-    --color-text-primary: #222;
-    --color-text-secondary: #555;
-    --color-text-muted: #777;
+    --color-bg-primary: #253d3f;
+    --color-bg-secondary: #587174;
+    --color-bg-light: #ffff;
+    --color-text-primary: #a9665c;
+    --color-text-main: #cfd4d4;
+    --color-text-secondary: #4a3d32;
+    --color-text-muted: #6a5a4d;
 
     /* Accent Colors (Akane theme) */
-    --color-accent-primary: #e0c3a1;
-    --color-accent-secondary: #d4b085;
+    --color-accent-primary: #d89b5a;
+    --color-accent-secondary: #b36b32;
     --color-accent-gradient: linear-gradient(135deg, var(--color-accent-primary), var(--color-accent-secondary));
     --color-accent-inside: #f7f1ea;
 
@@ -49,18 +51,44 @@
     --shadow-sm: 0 4px 12px var(--color-shadow-light);
     --shadow-md: 0 8px 20px var(--color-shadow-medium);
     --shadow-lg: 0 12px 32px var(--color-shadow-medium);
-}
 
+    /* Fonts */
+    --font-display: "Hiragino Maru Gothic ProN", "Yu Mincho", "Noto Serif JP", sans-serif;
+    --font-body: "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif;
+
+    /* Paper */
+    --paper-noise:
+        radial-gradient(circle at 23px 23px, rgba(0, 0, 0, 0.03) 1px, transparent 0),
+        radial-gradient(circle at 73px 73px, rgba(0, 0, 0, 0.02) 1px, transparent 0),
+        radial-gradient(circle at 43px 93px, rgba(255, 255, 255, 0.8) 1px, transparent 0);
+    --paper-color: #f5efe8;
+}
 
 /* Base layout */
-
 body {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font-family: var(--font-body);
     margin: 0;
     padding: 0;
-    background: var(--color-bg-primary);
-    color: var(--color-text-primary);
+    background-color: var(--color-bg-primary);
+    background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
 }
+
+/* Paper cards use same texture */
+main,
+.download-link,
+.wiki-button,
+.wiki-infobox,
+.audio-preview,
+.footer_container,
+.info-box,
+.timeline-date,
+.site-title-block {
+    background-color: var(--color-bg-light);
+    background-image: url("https://www.transparenttextures.com/patterns/whitey.png");
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+
 
 header {
     padding: 1.5rem 1rem 0.75rem;
@@ -75,19 +103,32 @@ header h1 {
 }
 
 .site-header {
-    padding: 1.8rem 1.25rem 1.1rem;
+    padding: 1.6rem 1.25rem 1.8rem;
+    border-bottom: 1px solid var(--color-text-main);
+    color: var(--color-text-primary);
 }
 
 .site-header-inner {
-    max-width: 880px;
+    max-width: 900px;
     margin: 0 auto;
     display: flex;
-    align-items: center;
-    gap: 1.2rem;
+    justify-content: center;
 }
 
+/* The label “plate” */
 .site-title-block {
-    flex: 1 1 auto;
+    position: relative;
+    padding: 0.8rem 1.8rem;
+    background-color: var(--color-bg-light);
+    background-image: url("https://www.transparenttextures.com/patterns/beige-paper.png");
+    border-radius: 6px;
+    border: 1px solid var(--color-bg-primary);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 0.2rem;
 }
 
 .site-title-block h1 {
@@ -95,26 +136,32 @@ header h1 {
     font-size: 1.5rem;
     font-weight: 500;
     letter-spacing: 0.06em;
+    font-family: var(--font-display);
+    /* rounded title */
 }
 
 .site-subtitle {
     font-size: 0.8rem;
     color: var(--color-text-muted);
-    color: var(--color-text-muted);
+    font-family: var(--font-body);
 }
 
 .site-title-link {
-    display: inline-flex;
-    font-size: 1.5rem;
+    display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     margin: 0;
-    font-size: 1.5rem;
+    font-family: var(--font-body);
+    font-size: 2.5rem;
     font-weight: 500;
     letter-spacing: 0.06em;
     text-decoration: none;
     color: inherit;
     gap: 0.1rem;
+    text-align: center;
 }
+
 
 .site-title-link .site-subtitle {
     font-size: 0.8rem;
@@ -143,8 +190,8 @@ header h1 {
     }
 
     .site-portrait img {
-        width: 72px;
-        height: 72px;
+        width: 300px;
+        height: 300px;
     }
 }
 
@@ -157,26 +204,35 @@ nav {
     gap: 0.75rem;
     padding: 0.75rem 1rem 1.25rem;
     border-bottom: 1px solid #e5ded7;
-    background: var(--color-bg-primary);
+    background: var(--color-bg-secondary);
+    background-image: url("https://www.transparenttextures.com/patterns/whitey.png");
 }
 
 nav a {
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     color: #555;
     padding: 0.35rem 0.9rem;
-    border-radius: 999px;
-    transition: background 0.15s ease-out, color 0.15s ease-out;
+    border-radius: 4px;
+    border: 1px solid black;
+    font-weight: 500;
+    /* letter-spacing: 0.08em; */
+    text-transform: uppercase;
+    font-family: var(--font-body);
+    transition: all 0.18s ease-out;
 }
 
 nav a:hover {
-    background: #eee4da;
+    background: rgba(248, 244, 237, 0.6);
+    border-color: var(--color-bg-secondary);
     color: var(--color-text-primary);
 }
 
 nav a.active {
-    background: var(--color-text-primary);
-    color: var(--color-bg-primary);
+    background: var(--color-text-main);
+    color: var(--color-text-secondary);
+    border-color: var(--color-text-secondary);
+    background-image: url("https://www.transparenttextures.com/patterns/whitey.png");
 }
 
 /* Main content */
@@ -192,12 +248,13 @@ section {
 }
 
 h2 {
-    font-size: 1rem;
+    font-family: var(--font-body);
+    font-size: 2rem;
     font-weight: 500;
     letter-spacing: 0.12em;
     text-transform: uppercase;
     margin: 0 0 1rem;
-    color: #var(--color-text-secondary);
+    color: var(--color-text-primary);
 }
 
 /* Carousel*/
@@ -225,7 +282,7 @@ h2 {
     align-items: center;
     justify-content: center;
     padding: 1.5rem;
-    background: var(--color-bg-secondary);
+    /* background: var(--color-bg-secondary); */
 }
 
 .art-slide img {
@@ -290,13 +347,12 @@ h2 {
 
 
 /* Generic soft box for terms / description */
-
 .terms,
 .info-box {
-    background: var(--color-bg-secondary);
+    /* background: var(--color-text-main); */
     border-radius: 12px;
     padding: 1.25rem 1.4rem;
-    border: 1px solid #ece4dd;
+    border: 1px solid var(--color-bg-primary);
     margin: 1.25rem 0;
 }
 
@@ -328,15 +384,16 @@ p {
     font-size: 0.95rem;
     line-height: 1.7;
     margin: 0.2rem 0 0.4rem;
+    color: var(--color-text-secondary);
 }
 
 /* Layout of profile + infobox */
 
 .wiki-infobox {
     box-sizing: border-box;
-    background: var(--color-bg-secondary);
+    /* background: var(--color-bg-secondary); */
     border-radius: 12px;
-    border: 1px solid #ece4dd;
+    border: 1px solid var(--color-bg-secondary);
     padding: 1rem 1.1rem;
     font-size: 0.85rem;
     width: 260px;
@@ -413,11 +470,19 @@ p {
 
 footer {
     text-align: center;
-    padding: 1.5rem 1rem 2rem;
+    padding: 0.5rem 1rem 1rem;
     font-size: 0.8rem;
-    color: #888;
-    border-top: 1px solid #e5ded7;
+    justify-items: center;
+    color: var(--color-text-main);
+    font-weight: 800;
 }
+
+.footer_container {
+    background-color: white;
+    border: 2px solid var(--color-text-main);
+}
+
+
 
 @media (max-width: 900px) {
     main {
@@ -444,31 +509,39 @@ footer {
     flex-direction: column;
     align-items: flex-start;
     gap: 0.2rem;
-    padding: 0.8rem 1rem;
-    border-radius: 12px;
+    padding: 0.9rem 1.1rem;
+    border-radius: 6px;
+    /* sharper corners */
     text-decoration: none;
-    background: var(--color-bg-secondary);
-    border: 1px solid #ece4dd;
+    background: rgba(248, 244, 237, 0.95);
+    border: 1px solid #cbb6a1;
+    /* manual paper edge */
     color: var(--color-text-primary);
-    transition: background 0.15s ease-out, border-color 0.15s ease-out,
-        transform 0.08s ease-out, box-shadow 0.15s ease-out;
+    font-family: var(--font-body);
+    transition: all 0.18s ease-out;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
 }
 
 .download-link:hover {
-    background: var (--color-accent-inside);
-    border-color: var(--color-accent-primary);
+    background: var(--color-accent-inside);
+    border-color: #b36b32;
+    /* orange accent */
     transform: translateY(-1px);
-    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.04);
+    box-shadow: 0 4px 12px rgba(179, 107, 50, 0.15);
 }
 
 .download-label {
-    font-size: 0.95rem;
+    font-size: 0.88rem;
     font-weight: 500;
+    letter-spacing: 0.06em;
+    /* tighter spacing */
+    text-transform: uppercase;
 }
 
 .download-meta {
-    font-size: 0.8rem;
-    color: var(--color-text-muted);
+    font-size: 0.75rem;
+    color: #5a4a3e;
+    font-weight: 400;
 }
 
 @media (max-width: 600px) {
@@ -501,9 +574,9 @@ body {
     gap: 1.8rem;
     margin: 2rem 0;
     padding: 1.5rem;
-    background: var(--color-bg-secondary);
+    background: var(--color-text-main);
     border-radius: 16px;
-    border: 1px solid #ece4dd;
+    border: 1px solid var(--color-bg-primary);
 }
 
 .audio-preview>p {
@@ -511,7 +584,7 @@ body {
     font-size: 0.95rem;
     font-weight: 500;
     letter-spacing: 0.04em;
-    color: #var(--color-text-secondary);
+    color: var(--color-text-secondary);
 }
 
 .audio-preview audio {
@@ -551,26 +624,28 @@ body {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    padding: 0.85rem 1.6rem;
+    padding: 0.75rem 1.4rem;
     margin: 1rem auto 0;
-    background: var(--color-bg-secondary);
-    color: var(--color-accent-secondary);
+    background: var(--color-text-main);
+    color: var(--color-text-secondary);
     text-decoration: none;
-    font-size: 0.9rem;
+    font-size: 0.82rem;
     font-weight: 500;
-    letter-spacing: 0.04em;
-    border-radius: 12px;
-    border: 1px solid #ece4dd;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border-radius: 6px;
+    border: 1px solid var(--color-text-muted);
     transition: all 0.18s ease-out;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+    font-family: var(--font-body);
 }
 
 .wiki-button:hover {
-    background: var(--color-hover-bg);
-    border-color: var(--color-accent-primary);
-    color: var(--color-text-primary);
+    background: var(--color-accent-inside);
+    border-color: var(--color-text-muted);
+    color: var(--color-text-muted);
     transform: translateY(-1px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 4px 12px rgba(179, 107, 50, 0.15);
 }
 
 .wiki-button:active {
@@ -684,7 +759,7 @@ body {
 
 .timeline-block h2 {
     font-size: 1.1rem;
-    color: #var(--color-text-secondary);
+    color: var(--color-text-secondary);
     margin-bottom: 1.5rem;
 }
 
@@ -715,22 +790,22 @@ body {
     width: 5rem;
     font-size: 0.8rem;
     font-weight: 600;
-    color: var(--color-accent-primary);
+    color: var(--color-text-secondary);
     text-align: center;
-    background: var(--color-bg-secondary);
+    /* background: var(--color-text-main); */
     border-radius: 10%;
     height: 2rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid var(--color-border-light);
+    border: 2px solid var(--color-text-secondary);
 }
 
 .timeline-content {
-    background: var(--color-bg-secondary);
+    /* background: var(--color-bg-secondary); */
     padding: 1.3rem;
     border-radius: 14px;
-    border: 1px solid var(--color-border-light);
+    border: 1px solid var(--color-text-secondary);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
     transition: all 0.2s ease-out;
     position: relative;
@@ -753,7 +828,7 @@ body {
 .timeline-content ul {
     margin: 0;
     font-size: 0.9rem;
-    color: #var(--color-text-secondary);
+    color: var(--color-text-secondary);
     line-height: 1.6;
 }
 
