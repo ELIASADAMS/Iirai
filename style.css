@@ -5,7 +5,7 @@
     --color-bg-light: #ffff;
     --color-text-primary: #a9665c;
     --color-text-main: #cfd4d4;
-    --color-text-secondary: #4a3d32;
+    --color-text-secondary: #4b6366;
     --color-text-muted: #6a5a4d;
 
     /* Accent Colors (Akane theme) */
@@ -54,7 +54,8 @@
 
     /* Fonts */
     --font-display: "Hiragino Maru Gothic ProN", "Yu Mincho", "Noto Serif JP", sans-serif;
-    --font-body: "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif;
+    --font-body: "BIZ UDMincho", system-ui, sans-serif;
+
 
     /* Paper */
     --paper-noise:
@@ -81,13 +82,18 @@ main,
 .audio-preview,
 .footer_container,
 .info-box,
-.timeline-date,
+.contact-card .timeline-date,
 .site-title-block {
     background-color: var(--color-bg-light);
     background-image: url("https://www.transparenttextures.com/patterns/whitey.png");
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
+.biz-udmincho-regular {
+    font-family: "BIZ UDMincho", serif;
+    font-weight: 400;
+    font-style: normal;
+}
 
 
 header {
@@ -210,13 +216,13 @@ nav {
 
 nav a {
     text-decoration: none;
-    font-size: 0.8rem;
+    font-size: 1rem;
     color: #555;
     padding: 0.35rem 0.9rem;
     border-radius: 4px;
     border: 1px solid black;
     font-weight: 500;
-    /* letter-spacing: 0.08em; */
+    letter-spacing: normal;
     text-transform: uppercase;
     font-family: var(--font-body);
     transition: all 0.18s ease-out;
@@ -249,8 +255,8 @@ section {
 
 h2 {
     font-family: var(--font-body);
-    font-size: 2rem;
-    font-weight: 500;
+    font-size: 4.167rem;
+    font-weight: 800;
     letter-spacing: 0.12em;
     text-transform: uppercase;
     margin: 0 0 1rem;
@@ -361,9 +367,9 @@ h2 {
 .info-box h3 {
     margin-top: 0;
     margin-bottom: 0.6rem;
-    font-size: 0.95rem;
+    font-size: 1.833rem;
     font-weight: 500;
-    letter-spacing: 0.08em;
+    letter-spacing: normal;
     text-transform: uppercase;
     color: #666;
 }
@@ -381,8 +387,9 @@ h2 {
 }
 
 p {
-    font-size: 0.95rem;
+    font-size: 1.5rem;
     line-height: 1.7;
+    letter-spacing: normal;
     margin: 0.2rem 0 0.4rem;
     color: var(--color-text-secondary);
 }
@@ -666,9 +673,9 @@ body {
     align-items: center;
     gap: 1rem;
     padding: 1.2rem;
-    background: var(--color-bg-secondary);
+    /* background: var(--color-bg-secondary); */
     border-radius: 14px;
-    border: 1px solid #ece4dd;
+    border: 1px solid var(--color-bg-secondary);
     text-decoration: none;
     color: inherit;
     transition: all 0.2s ease-out;
@@ -686,7 +693,8 @@ body {
     width: 92px;
     height: 56px;
     border-radius: 12px;
-    background: var(--color-other-gradient-blue);
+    border: 1px solid var(--color-bg-secondary);
+    /* background: var(--color-other-gradient-blue); */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -759,6 +767,7 @@ body {
 
 .timeline-block h2 {
     font-size: 1.1rem;
+    letter-spacing: normal;
     color: var(--color-text-secondary);
     margin-bottom: 1.5rem;
 }
