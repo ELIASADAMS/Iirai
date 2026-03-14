@@ -143,7 +143,6 @@ header h1 {
     font-weight: 500;
     letter-spacing: 0.06em;
     font-family: var(--font-display);
-    /* rounded title */
 }
 
 .site-subtitle {
@@ -160,7 +159,7 @@ header h1 {
     margin: 0;
     font-family: var(--font-body);
     font-size: 2.5rem;
-    font-weight: 500;
+    font-weight: 800;
     letter-spacing: 0.06em;
     text-decoration: none;
     color: inherit;
@@ -171,6 +170,7 @@ header h1 {
 
 .site-title-link .site-subtitle {
     font-size: 0.8rem;
+    font-weight: 500;
     color: var(--color-text-muted);
 }
 
@@ -794,7 +794,7 @@ body {
 
 .timeline-date {
     position: absolute;
-    left: -6.8rem;
+    left: -5.6rem;
     top: 0.2rem;
     width: 5rem;
     font-size: 0.8rem;
