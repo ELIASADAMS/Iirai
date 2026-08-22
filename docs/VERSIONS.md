@@ -9,13 +9,13 @@ The original version is documented by the UTAU Wiki and preserved in this reposi
 Historical wiki reference:
 https://utau.fandom.com/wiki/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4
 
-The original wiki describes a Japanese CVVC UTAUloid with a low, warm register, Romaji CVVC aliases, and the 怪人ハサミ / “Scissor Kaijin” identity. It also records Ilya Minin (Eli) as creator/voice provider, Schenchik as illustrator and eikton as OTO/technical contributor. citeturn756697search0
+The original wiki describes a Japanese CVVC UTAUloid with a low, warm register, Romaji CVVC aliases, and the 怪人ハサミ / “Scissor Kaijin” identity. It also records Ilya Minin (Eli) as creator/voice provider, Schenchik as illustrator and eikton as OTO/technical contributor.
 
 ## Updated
 
 ### 茜音イーライ (Akane Iirai)
 
-Akane Iirai is the updated version of the original イーライ. The supplied current manual explicitly describes the bank as having improved phoneme clarity compared with the first iteration, with three pitches and a clearer, more confident upper range while retaining the warm, bass-leaning core. fileciteturn45file0L50-L60
+Akane Iirai is the updated version of the original イーライ. The supplied current manual explicitly describes the bank as having improved phoneme clarity compared with the first iteration, with three pitches and a clearer, more confident upper range while retaining the warm, bass-leaning core.
 
 Current technical metadata belongs to the updated bank and is documented in `VOICEBANK.md`.
 
