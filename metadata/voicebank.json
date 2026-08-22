@@ -1,0 +1,21 @@
+{
+  "name": "茜音イーライ",
+  "romanized_name": "Akane Iirai",
+  "previous_version": "イーライ (Iirai)",
+  "status": "updated_release",
+  "engine": ["UTAU", "OpenUtau"],
+  "language": "Japanese",
+  "recording_method": "CVVC",
+  "encoding": "Romaji",
+  "pitches": ["A3", "F3", "C3"],
+  "range": "G#3-D3",
+  "optimum_bpm": "70-120",
+  "genres": ["dark pop", "industrial", "experimental"],
+  "features": ["consonant clarity", "high end", "bass"],
+  "recommended": ["TIPS", "Moresampler", "WORLDLINE-R", "wavtool4vcv"],
+  "creator": "Ilya Minin (Eli)",
+  "voice_provider": "Ilya Minin (Eli)",
+  "illustrator": "Schenchik",
+  "oto_technical": "eikton",
+  "source_of_truth": "docs/MANUAL.md"
+}
