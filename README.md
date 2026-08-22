@@ -86,7 +86,7 @@ Existing root-level artwork is intentionally preserved for now so the current Gi
 
 ## Historical Reference
 
-The original **イーライ (Iirai)** remains part of the archive. The UTAU Wiki page is preserved as a historical/reference source rather than the current technical specification for Akane Iirai. citeturn198529search0
+The original **イーライ (Iirai)** remains part of the archive. The UTAU Wiki page is preserved as a historical/reference source rather than the current technical specification for Akane Iirai.
 
 ## Contact
 
