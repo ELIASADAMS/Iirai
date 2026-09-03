@@ -1,0 +1,28 @@
+{
+  "project": "イーライ",
+  "generations": [
+    {
+      "name": "イーライ",
+      "romanized_name": "Iirai",
+      "generation": 1,
+      "status": "preserved",
+      "asset_directory": "assets/character/イーライ"
+    },
+    {
+      "name": "茜音イーライ",
+      "romanized_name": "Akane Iirai",
+      "generation": 2,
+      "status": "released",
+      "asset_directory": "assets/character/茜音イーライ"
+    },
+    {
+      "name": "茜音イーライ・暁",
+      "romanized_name": "Akane Iirai · Akatsuki",
+      "generation": 3,
+      "status": "in_development",
+      "asset_directory": "assets/character/茜音イーライ・暁",
+      "design_status": "placeholder",
+      "planned_additions": ["cleaned samples", "new appends", "extras"]
+    }
+  ]
+}
