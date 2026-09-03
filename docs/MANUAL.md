@@ -2,10 +2,31 @@
 
 This repository reference describes the イーライ voicebank line as a continuously developing artistic project. Each generation carries the same voicebank lineage forward through new recordings, new expression and new visual presentation.
 
+## Generation 1 — イーライ
+
+The original voicebank, with a more masculine vocal and visual origin.
+
+- [Character profile](../iirai.html)
+- [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll](https://bowlroll.net/file/349204)
+
+## Generation 2 — 茜音イーライ
+
+The released second generation. The voice became clearer and more expressive while the character moved toward a more feminine, queer and gender-nonconforming presentation.
+
+- [Character profile](../akane-iirai.html)
+- [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll](https://bowlroll.net/file/350273)
+
+## Generation 3 — 茜音イーライ・暁
+
+The incoming third generation. 暁 continues the same project with cleaned samples, new appends and extras and a new visual design.
+
+- [Character profile](../akane-iirai-akatsuki.html)
+
 ## Character information
 
 - Voicebank line: イーライ (Iirai)
-- Current generation: 茜音イーライ・暁 (Akane Iirai · Akatsuki)
 - Character gender expression: fluid / non-binary
 - Character pronouns: he/him
 - Creator: Ilya Minin (Eli)
@@ -15,7 +36,7 @@ This repository reference describes the イーライ voicebank line as a continu
 
 ## Personal / artistic context
 
-The voicebank's gender expression has developed together with its real voice provider. The original イーライ emerged from a more masculine vocal and visual position. With 茜音イーライ, the voice became noticeably more feminine, queer and gender-nonconforming. 暁 continues that movement further rather than treating gender as a fixed endpoint.
+The voicebank's gender expression has developed together with its real voice provider. The original イーライ emerged from a more masculine vocal and visual position. With 茜音イーライ, the voice became noticeably more feminine, queer and gender-nonconforming. 暁 continues that movement further.
 
 The real voice provider, Ilya Minin (Eli), has come to understand himself as non-binary and is finding a place between genders. The voicebank is one artistic record of that process: a gradual movement away from a masculine origin that no longer feels representative and toward a more androgynous, queer and fluid expression.
 
@@ -31,7 +52,7 @@ He is nicknamed 怪人ハサミ (Kaijin Hasami, “Scissor Kaijin”), a trickst
 
 ## Voicebank / technical
 
-The released 茜音イーライ bank is a Japanese CVVC voicebank with three pitches. It has improved phoneme clarity compared with the first iteration, while preserving a warm, bass-leaning core and providing a smoother, more confident upper range.
+The released 茜音イーライ bank is a Japanese CVVC voicebank with three pitches: A3 / F3 / C3. It has improved phoneme clarity compared with the first iteration, while preserving a warm, bass-leaning core and providing a smoother, more confident upper range.
 
 茜音イーライ・暁 is the incoming third generation. It is being prepared with cleaned samples, new appends and extras, with its detailed specification to be finalized as the new material is completed.
 
@@ -45,16 +66,6 @@ Forgotten drafts and abandoned prototypes; weird tools and broken gadgets; half-
 
 Awkward silences; over-polished corporate mixes; permanent file deletion and vanished autosaves; rigid gender expectations; strict genre labels and workflows; unexpected folder renames or broken file paths; deadlines that kill experimentation; collaborations where the voice is treated like a preset.
 
-## Relationships
-
-- ネラミ (Nerami): Deep-sea companion who gathers his edit scraps.
-- Fond of Kasane Teto and vFlower.
-
 ## Terms of use
 
-- R-18 content: violence, horror and dark themes are allowed; explicit sexual content requires permission.
-- Voicebank commercial use: free for non-commercial use; contact creator for commercial use.
-- Character commercial use: merchandise/logos require permission from creator and illustrator.
-- Derivatives: terms apply unless separate rules are provided.
-
-The full current terms are maintained in `TERMS.md`.
+See `TERMS.md` for the current public terms. R-18 themes, permissions and commercial-use conditions are governed by that document.
