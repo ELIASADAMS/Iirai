@@ -4,13 +4,13 @@ Official repository for the **イーライ** voicebank family by **Ilya Minin (E
 
 > **Stay Determined.**
 
-The project is maintained as a three-generation archive:
+The project is a continuously growing voicebank line:
 
 - **イーライ (Iirai)** — Generation 1, the original voicebank.
-- **茜音イーライ (Akane Iirai)** — Generation 2, the established updated CVVC release.
+- **茜音イーライ (Akane Iirai)** — Generation 2, the established updated CVVC release with a more feminine and queer expression.
 - **茜音イーライ・暁 (Akane Iirai · Akatsuki)** — Generation 3, currently in development with cleaned samples, new appends and extras, plus a new visual design.
 
-Earlier generations remain preserved rather than being silently replaced.
+Each generation records another stage of the same voicebank's development. The project grows by accumulating new ways to hear and use the voice while keeping its earlier forms as part of the archive.
 
 ## Official Website
 
@@ -24,7 +24,7 @@ https://ilyaminineli.github.io/Iirai/
 - [Technical Specification](docs/VOICEBANK.md)
 - [Usage Guide](docs/USAGE.md)
 - [Character](docs/CHARACTER.md)
-- [Version History](docs/VERSIONS.md)
+- [Generation History](docs/VERSIONS.md)
 - [Media Archive](docs/MEDIA.md)
 - [Release Roadmap](docs/RELEASES.md)
 - [Terms of Use](TERMS.md)
@@ -35,7 +35,7 @@ https://ilyaminineli.github.io/Iirai/
 | Property | Current official value |
 |---|---|
 | Name | 茜音イーライ (Akane Iirai) |
-| Previous version | イーライ (Iirai) |
+| Generation | 2 |
 | Engine | UTAU / OpenUtau |
 | Language | Japanese |
 | Recording method | CVVC |
@@ -48,9 +48,15 @@ https://ilyaminineli.github.io/Iirai/
 
 ## Generation 3 — 茜音イーライ・暁
 
-暁 is the next recording pass of the same character lineage. The planned revision includes cleaned existing material, additional appends and extras, and a new visual presentation.
+暁 is the next recording stage of the same character and voicebank line. The planned revision includes cleaned existing material, additional appends and extras, and a new visual presentation.
 
-The GitHub Pages site already contains the final navigation structure and generation-specific asset path. The current 暁 artwork is intentionally a placeholder until the design is finalized.
+The GitHub Pages site already contains the generation-specific asset path. The current 暁 artwork is intentionally a placeholder until the design is finalized.
+
+## Voice-provider context
+
+The real voice provider and creator, **Ilya Minin (Eli)**, has come to understand himself as **non-binary** and is finding a place between genders. The development of the voicebank reflects that personal artistic movement away from a masculine origin that no longer feels representative, toward a more androgynous, queer, feminine/fluid expression.
+
+The progression from イーライ to 茜音イーライ and then to 暁 is therefore also a record of changing self-expression. The character becomes increasingly queer and gender-nonconforming as the voice provider becomes more comfortable occupying a space outside conventional gender categories.
 
 ## Repository Structure
 
@@ -79,4 +85,4 @@ The original **イーライ (Iirai)** remains part of the archive. The [UTAU Wik
 
 ## Source of Truth
 
-For the released second-generation bank, use `docs/VOICEBANK.md` and `docs/MANUAL.md` as the canonical technical references. For the incoming third generation, the repository and release roadmap will be updated as the recording and final design are completed.
+For the released second-generation bank, use `docs/VOICEBANK.md` and `docs/MANUAL.md` as the canonical technical references. For the incoming third generation, the repository and release roadmap will be updated as the recording, append inventory and final design are completed.
