@@ -1,17 +1,25 @@
-# イーライ / 茜音イーライ・暁 Documentation
+# イーライ Voicebank Line — Documentation
 
-Canonical documentation for the three-generation イーライ voicebank family.
+Canonical documentation for the growing three-generation イーライ voicebank family.
 
-- `MANUAL.md` — official manual reference for the released 茜音イーライ bank
-- `VOICEBANK.md` — canonical technical specification for Generation 2
+## Generations
+
+- `GEN 1` — **イーライ**: original voicebank and starting point.
+- `GEN 2` — **茜音イーライ**: released second generation with a more feminine and queer expression.
+- `GEN 3` — **茜音イーライ・暁**: incoming generation with cleaned samples, new appends and extras, and a new visual design.
+
+## Documents
+
+- `MANUAL.md` — official manual reference and creative context
+- `VOICEBANK.md` — canonical technical specification
 - `USAGE.md` — UTAU/OpenUtau usage guide
-- `CHARACTER.md` — character and lore archive
-- `VERSIONS.md` — relationship between all three generations
-- `MEDIA.md` — demos, songs and future media archive
-- `RELEASES.md` — revision roadmap, including Generation 3 暁
+- `CHARACTER.md` — current character identity, design development and voice-provider context
+- `VERSIONS.md` — generation history and the evolution of the voicebank
+- `MEDIA.md` — published songs, demos and community works
+- `RELEASES.md` — current development roadmap and future revisions
+
+The documents describe the same voicebank line from different perspectives. Technical values for released material remain distinct from planned Gen 3 material, while the character and historical documents describe how the project grows across generations.
+
+The real voice provider, Ilya Minin (Eli), identifies as non-binary and is finding a place between genders. The later generations increasingly reflect that movement toward a more androgynous, queer, feminine/fluid expression.
 
 Machine-readable generation metadata lives in `metadata/generations.json`.
-
-The GitHub Pages site uses one seven-item navigation across the public pages: Home, Lineup, Character, History, Music, Resources and Download. The third-generation artwork path is already reserved under `assets/character/茜音イーライ・暁/`; its current images are placeholders until the final design is ready.
-
-For the released Generation 2 technical information, the supplied Akane Iirai manual remains the source of truth. The original イーライ Wiki page is retained only as a historical/reference source.
