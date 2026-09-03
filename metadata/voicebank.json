@@ -1,8 +1,17 @@
 {
   "name": "茜音イーライ",
   "romanized_name": "Akane Iirai",
+  "voicebank_line": "イーライ",
+  "generation": 2,
+  "next_generation": {
+    "name": "茜音イーライ・暁",
+    "romanized_name": "Akane Iirai · Akatsuki",
+    "generation": 3,
+    "status": "in_development",
+    "design_status": "placeholder"
+  },
   "previous_version": "イーライ (Iirai)",
-  "status": "updated_release",
+  "status": "released",
   "engine": ["UTAU", "OpenUtau"],
   "language": "Japanese",
   "recording_method": "CVVC",
@@ -11,10 +20,12 @@
   "range": "G#3-D3",
   "optimum_bpm": "70-120",
   "genres": ["dark pop", "industrial", "experimental"],
-  "features": ["consonant clarity", "high end", "bass"],
+  "features": ["consonant clarity", "high end", "bass", "more feminine and queer expression"],
   "recommended": ["TIPS", "Moresampler", "WORLDLINE-R", "wavtool4vcv"],
   "creator": "Ilya Minin (Eli)",
   "voice_provider": "Ilya Minin (Eli)",
+  "voice_provider_gender_identity": "non-binary",
+  "voice_provider_expression_context": "The voicebank's later generations follow the provider's movement away from a masculine origin toward an androgynous, queer and fluid place between genders.",
   "illustrator": "Schenchik",
   "oto_technical": "eikton",
   "source_of_truth": "docs/MANUAL.md"
