@@ -10,6 +10,8 @@ The イーライ project is a growing Japanese CVVC voicebank family:
 
 Each generation is part of the same lineage and can be understood as a different stage of the voice's growth.
 
+- [Read all three generation profiles](../character.html)
+
 ## Current released bank — 茜音イーライ
 
 茜音イーライ is a Japanese CVVC voicebank with three pitches: A3, F3 and C3.
@@ -20,13 +22,27 @@ Each generation is part of the same lineage and can be understood as a different
 - Primary recommendation: TIPS for bass preservation
 - Other recommendations: Moresampler, WORLDLINE-R, wavtool4vcv
 
-The bank keeps a warm, bass-leaning core while offering clearer upper-register material and improved phoneme clarity compared with the original iteration.
+The bank keeps a warm, bass-leaning core while offering clearer upper-register material and improved phoneme clarity compared with the original form.
+
+- [Character profile](../akane-iirai.html)
+- [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll](https://bowlroll.net/file/350273)
+
+## Original — イーライ
+
+For the original recording and distribution:
+
+- [Character profile](../iirai.html)
+- [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll](https://bowlroll.net/file/349204)
 
 ## Upcoming — 茜音イーライ・暁
 
 暁 is being prepared as the next recording pass. Planned material includes cleaned samples, additional appends and extras, with the final technical configuration to be documented after the new material is complete.
 
 The current visual assets are placeholders.
+
+- [Character profile](../akane-iirai-akatsuki.html)
 
 ## Recommended use
 
@@ -41,11 +57,11 @@ The current bank is designed for expressive phrasing and is especially suited to
 - Tension: -200 to 200
 - Growl: 0–100
 
-See `VOICEBANK.md` for the meaning of each parameter.
+See `VOICEBANK.md` or [the localized technical page](../technical.html) for the meaning of each parameter.
 
 ## Expression and identity
 
-The later generations intentionally allow more feminine, queer, and gender-nonconforming expression. This is part of the project's artistic development alongside the real voice provider's non-binary self-understanding.
+The later generations intentionally allow more feminine, queer, fluid and gender-nonconforming expression. This is part of the project's artistic development alongside the real voice provider's non-binary self-understanding and movement toward a place between genders.
 
 ## Future examples
 
