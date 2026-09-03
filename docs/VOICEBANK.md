@@ -2,20 +2,15 @@
 
 This is the canonical technical overview of the イーライ voicebank family. The project is developed as a continuous voicebank line whose recordings, expression and presentation can grow from one generation to the next.
 
-## Identity
-
-- Voicebank line: イーライ (Iirai)
-- Current named generation: 茜音イーライ・暁 (Akane Iirai · Akatsuki)
-- Engine: UTAU / UTAU-compatible workflows
-- Language: Japanese
-- Recording method: CVVC
-- Encoding: Romaji-encoded, CVVC aliased
-
 ## Generation structure
 
 ### Generation 1 — イーライ
 
-The original voicebank and the starting point of the project. Its vocal and visual presentation has a more masculine origin than the later generations.
+The original Japanese UTAU voicebank and the starting point of the project. Its vocal and visual presentation has a more masculine origin than the later generations.
+
+- [Character profile](../iirai.html)
+- [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll distribution](https://bowlroll.net/file/349204)
 
 ### Generation 2 — 茜音イーライ
 
@@ -23,25 +18,33 @@ The second generation expanded the recording and developed a more feminine, quee
 
 The released bank has three pitches: A3 / F3 / C3. It provides improved phoneme clarity, a clearer and more confident upper range, and a warm, bass-leaning core.
 
+- [Character profile](../akane-iirai.html)
+- [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll distribution](https://bowlroll.net/file/350273)
+
 ### Generation 3 — 茜音イーライ・暁
 
 The incoming third generation continues the same line with cleaned samples, new appends and extras, and a new visual design. The final technical specification will be expanded as the new recordings are completed.
 
-The current repository artwork for 暁 is intentionally provisional.
+- [Character profile](../akane-iirai-akatsuki.html)
 
 ## Character / Credits
 
-- Gender: Fluid / Non-binary character expression
+- Gender: Fluid / non-binary character expression
 - Pronouns: he/him
 - Creator: Ilya Minin (Eli)
 - Voice Provider: Ilya Minin (Eli)
 - Illustrator: Schenchik
 - OTO / Technical: eikton
 
-The real voice provider identifies as non-binary and is exploring a place between genders. The evolution of the character and voicebank intentionally follows that movement away from a masculine origin toward a more androgynous, queer and feminine/fluid expression.
+The real voice provider identifies as non-binary and is exploring a place between genders. The evolution of the character and voicebank intentionally follows that movement away from a masculine origin toward a more androgynous, queer and increasingly feminine/fluid expression.
 
 ## Current released technical specification — 茜音イーライ
 
+- Engine: UTAU / OpenUtau
+- Language: Japanese
+- Recording method: CVVC
+- Encoding: Romaji-encoded, CVVC aliased
 - Pitches: A3 / F3 / C3
 - Range: G#3–D3
 - Optimum BPM: 70–120
