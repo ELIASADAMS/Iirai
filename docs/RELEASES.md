@@ -4,11 +4,19 @@
 
 The original voicebank and the starting point of the project. It remains preserved as the first recorded form of the voice.
 
+- [Character profile](../iirai.html)
+- [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll distribution](https://bowlroll.net/file/349204)
+
 ## Generation 2 — 茜音イーライ
 
 The established second generation. The current technical documentation records three pitches (A3 / F3 / C3), improved phoneme clarity, a clearer upper range and an expanded expressive workflow.
 
 This generation also marks a stronger feminine, queer and gender-nonconforming direction in the voice and character presentation.
+
+- [Character profile](../akane-iirai.html)
+- [GitHub release](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll distribution](https://bowlroll.net/file/350273)
 
 ## Generation 3 — 茜音イーライ・暁
 
@@ -25,6 +33,8 @@ The incoming third generation continues the same voicebank's development through
 - a new visual design.
 
 Current status: **IN DEVELOPMENT**. The repository already contains a generation-specific asset folder with placeholder artwork so the website can be prepared before the final design is complete.
+
+- [Character profile](../akane-iirai-akatsuki.html)
 
 ## Development philosophy
 
