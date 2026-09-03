@@ -5,15 +5,21 @@
       "name": "イーライ",
       "romanized_name": "Iirai",
       "generation": 1,
-      "status": "preserved",
-      "asset_directory": "assets/character/イーライ"
+      "status": "released",
+      "asset_directory": "assets/character/イーライ",
+      "profile": "iirai.html",
+      "github_release": "https://github.com/ilyaminineli/Iirai/releases/tag/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4",
+      "bowlroll": "https://bowlroll.net/file/349204"
     },
     {
       "name": "茜音イーライ",
       "romanized_name": "Akane Iirai",
       "generation": 2,
       "status": "released",
-      "asset_directory": "assets/character/茜音イーライ"
+      "asset_directory": "assets/character/茜音イーライ",
+      "profile": "akane-iirai.html",
+      "github_release": "https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4",
+      "bowlroll": "https://bowlroll.net/file/350273"
     },
     {
       "name": "茜音イーライ・暁",
@@ -21,8 +27,9 @@
       "generation": 3,
       "status": "in_development",
       "asset_directory": "assets/character/茜音イーライ・暁",
+      "profile": "akane-iirai-akatsuki.html",
       "design_status": "placeholder",
-      "planned_additions": ["cleaned samples", "new appends", "extras"]
+      "planned_additions": ["cleaned samples", "new appends", "extras", "new visual design"]
     }
   ]
 }
