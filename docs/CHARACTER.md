@@ -1,34 +1,38 @@
-# 茜音イーライ・暁 (Akane Iirai · Akatsuki) — Character
+# イーライ Voicebank Line — Character
 
 ## Core identity
 
-茜音イーライ・暁 is the third-generation incarnation of the イーライ voicebank line: the same creative voice project continuing to grow through new recordings, new expression and new visual forms. He is a scruffy, bright-eyed tinkerer and trickster who treats reality like an editable project file.
+The イーライ voicebank line is a single creative project that keeps growing through new recordings, new expression and new visual forms.
 
-His oversized scissors are a defining motif. They cut awkward silences, bad takes and timeline seams rather than functioning as a conventional weapon.
+- **Generation 1:** イーライ (Iirai)
+- **Generation 2:** 茜音イーライ (Akane Iirai)
+- **Generation 3:** 茜音イーライ・暁 (Akane Iirai · Akatsuki)
+
+Each generation remains a valid part of the project's history.
 
 ## A voice that keeps changing
 
-The イーライ voice has always been allowed to develop alongside its real voice provider, Ilya Minin (Eli). The first version had a more masculine vocal and visual origin. 茜音イーライ moved the voice and character toward a more feminine, queer and openly gender-nonconforming expression.
+The voice has developed together with its real voice provider, **Ilya Minin (Eli)**. The original イーライ emerged from a more masculine vocal and visual position. With 茜音イーライ, the voice and character moved toward a more feminine, queer and openly gender-nonconforming expression.
 
 暁 continues that direction further. The third generation is intentionally more queer, more expressive and more comfortable occupying space outside conventional masculine/feminine categories.
 
-This is not a story of replacing one identity with another. Each generation is part of the same voicebank's growth and remains part of its history.
+This is growth, not replacement. Earlier forms remain part of the same voicebank family and continue to have their own recordings, artwork and release history.
 
 ## Voice provider and self-expression
 
-The real voice provider, Ilya Minin (Eli), has since come to understand himself as non-binary and is consciously finding a place between genders. The character's development follows that personal artistic discovery: moving away from a masculine origin that no longer feels representative, toward a more androgynous, queer and fluid form of expression.
+The real voice provider, Ilya Minin (Eli), has come to understand himself as **non-binary** and is consciously finding a place between genders. The character's development follows that personal artistic discovery: moving away from a masculine origin that no longer feels representative, toward a more androgynous, queer and fluid form of expression.
 
-イーライ is therefore not a fixed gender archetype. The different generations document changes in voice, presentation and self-understanding without requiring the earlier forms to disappear.
+The voicebank is also a record of that process. Its changing timbre and presentation are allowed to reflect changes in self-understanding rather than forcing the character into one permanent gender presentation.
 
 ## Visual identity
 
 The visual language develops with each generation. Earlier イーライ material establishes the original form; 茜音イーライ introduces a more feminine and queer presentation; 暁 pushes the silhouette further into playful, theatrical and gender-nonconforming territory.
 
-The current 暁 artwork in the repository is provisional. Final design files can replace the placeholders without changing the site's structure.
+The current 暁 artwork is provisional while the final design is being prepared.
 
 ## Personality
 
-Hyperactive, talkative and playful on the surface, with fast rambling speech and glitched laughter. His singing voice is warm, bass-leaning and textured, while the newer generations increasingly explore clearer upper-register expression and a wider palette of vocal colour.
+Hyperactive, talkative and playful on the surface, with fast rambling speech and glitched laughter. The singing voice is warm, bass-leaning and textured, while later generations increasingly explore clearer upper-register expression and a wider palette of vocal colour.
 
 ## Likes
 
@@ -43,12 +47,12 @@ Awkward silence, over-polished corporate production, permanent deletion, rigid g
 - ネラミ (Nerami): deep-sea companion who gathers his edit scraps.
 - Fond of Kasane Teto and vFlower.
 
+## Read each generation
+
+- [イーライ — Generation 1 profile](../iirai.html)
+- [茜音イーライ — Generation 2 profile](../akane-iirai.html)
+- [茜音イーライ・暁 — Generation 3 profile](../akane-iirai-akatsuki.html)
+
 ## Historical note
 
-The family is understood as a continuous voicebank lineage:
-
-- **イーライ** — Generation 1, the original form.
-- **茜音イーライ** — Generation 2, a more developed and more feminine/queer expression of the same project.
-- **茜音イーライ・暁** — Generation 3, continuing the voice's growth with cleaned material, new appends and extras, and an even more queer and gender-nonconforming presentation.
-
-All generations remain valid archival forms of the project. None is erased by the next.
+The family is a continuous voicebank lineage. The later generations do not erase the earlier ones; they show how the same voice project, character and creator have continued to develop over time.
