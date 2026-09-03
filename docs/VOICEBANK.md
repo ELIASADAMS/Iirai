@@ -14,7 +14,7 @@ The original Japanese UTAU voicebank and the starting point of the project. Its 
 
 ### Generation 2 — 茜音イーライ
 
-The second generation expanded the recording and developed a more feminine, queer and gender-nonconforming vocal/character expression while retaining the core voice.
+The second generation expanded the recording and developed a softer, more feminine and less convention-bound vocal/character expression while retaining the core voice.
 
 The released bank has three pitches: A3 / F3 / C3. It provides improved phoneme clarity, a clearer and more confident upper range, and a warm, bass-leaning core.
 
@@ -30,14 +30,14 @@ The incoming third generation continues the same line with cleaned samples, new 
 
 ## Character / Credits
 
-- Gender: Fluid / non-binary character expression
+- Presentation: Fluid / androgynous
 - Pronouns: he/him
 - Creator: Ilya Minin (Eli)
 - Voice Provider: Ilya Minin (Eli)
 - Illustrator: Schenchik
 - OTO / Technical: eikton
 
-The real voice provider identifies as non-binary and is exploring a place between genders. The evolution of the character and voicebank intentionally follows that movement away from a masculine origin toward a more androgynous, queer and increasingly feminine/fluid expression.
+The real voice provider, Ilya Minin (Eli), identifies as non-binary and is exploring a place between genders. The evolution of the character and voicebank follows that movement away from a masculine origin toward a more androgynous, fluid and personally comfortable expression.
 
 ## Current released technical specification — 茜音イーライ
 
@@ -64,9 +64,9 @@ The real voice provider identifies as non-binary and is exploring a place betwee
 
 ## Voicebank characteristics
 
-The family is built around a warm, textured core with increasing access to upper-register and expressive material as the generations develop. The later generations are particularly suited to expressive phrasing, fast or rambling lines, chant-like parts and subtle glitched ad-libs.
+The family is built around a warm, textured core with increasing access to upper-register and expressive material as the generations develop. Later generations are particularly suited to expressive phrasing, fast or rambling lines, chant-like parts and subtle glitched ad-libs.
 
-The goal is not to freeze one “correct” form of the voice. The voicebank documents a living artistic process in which vocal timbre, gender expression and character presentation can change over time.
+The goal is not to freeze one “correct” form of the voice. The voicebank documents a living artistic process in which vocal timbre, presentation and character expression can change over time.
 
 ## Canonical source
 
