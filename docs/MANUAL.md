@@ -1,37 +1,41 @@
-# 茜音イーライ (Akane Iirai) — Official Manual Reference
+# イーライ Voicebank Line — Official Manual Reference
 
-This repository mirror/reference is based on the supplied official Akane Iirai information manual.
+This repository reference describes the イーライ voicebank line as a continuously developing artistic project. Each generation carries the same voicebank lineage forward through new recordings, new expression and new visual presentation.
 
 ## Character information
 
-- Gender: Fluid / Non-binary
-- Pronouns: he/him
-- Age: 24
-- Height: 170 cm
-- Weight: 51 kg
-- Species: Human (augmented)
-- Ethnicity: Slav/JP hybrid
-- Birthday: December 1, 2025
+- Voicebank line: イーライ (Iirai)
+- Current generation: 茜音イーライ・暁 (Akane Iirai · Akatsuki)
+- Character gender expression: fluid / non-binary
+- Character pronouns: he/him
 - Creator: Ilya Minin (Eli)
 - Voice Provider: Ilya Minin (Eli)
 - Illustrator: Schenchik
 - OTO / Tech: eikton
 
+## Personal / artistic context
+
+The voicebank's gender expression has developed together with its real voice provider. The original イーライ emerged from a more masculine vocal and visual position. With 茜音イーライ, the voice became noticeably more feminine, queer and gender-nonconforming. 暁 continues that movement further rather than treating gender as a fixed endpoint.
+
+The real voice provider, Ilya Minin (Eli), has come to understand himself as non-binary and is finding a place between genders. The voicebank is one artistic record of that process: a gradual movement away from a masculine origin that no longer feels representative and toward a more androgynous, queer and fluid expression.
+
 ## Personality
 
-茜音イーライ (Akane Iirai) is a scruffy, bright-eyed tinkerer who wanders through drafts and blueprints, editing reality with oversized scissors. Hyperactive and grinning on the surface, his warm bass voice now stretches into a clear upper range. He rambles fast, snaps into glitched laughter, and treats timelines like messy project folders.
+茜音イーライ and 暁 are scruffy, bright-eyed tinkers who wander through drafts and blueprints, editing reality with oversized scissors. Hyperactive and grinning on the surface, the voice remains warm and textured underneath. Fast rambling speech, glitched laughter and sudden changes in register are part of the character's language.
 
 ## Description
 
-Messy orange hair, freckles, big greenish eyes, and a permanent slightly unhinged smile. He wears a steampunk-ish mechanic-tailor outfit with goggles, gear-pattern details, tool belts, a patched shirt and vest, and a loose tie.
+The visual design evolves with the voice. The original イーライ established the first silhouette. 茜音イーライ introduced a more feminine and queer presentation. 暁 is designed to push the character further into theatrical, playful and gender-nonconforming territory.
 
 He is nicknamed 怪人ハサミ (Kaijin Hasami, “Scissor Kaijin”), a trickster who snips awkward silences and bad takes out of reality, leaving jump cuts, déjà vu and seams that do not quite line up.
 
 ## Voicebank / technical
 
-茜音イーライ is a Japanese UTAU voicebank with three pitches. It was recorded with improved phoneme clarity compared with the first iteration. Its core tone is warm and bass-leaning, while the updated bank gives a smooth and confident upper range that cuts through dense mixes without losing texture.
+The released 茜音イーライ bank is a Japanese CVVC voicebank with three pitches. It has improved phoneme clarity compared with the first iteration, while preserving a warm, bass-leaning core and providing a smoother, more confident upper range.
 
-The voice is designed for expressive phrasing, fast or rambling lines, chant-like parts and subtle glitched ad-libs.
+茜音イーライ・暁 is the incoming third generation. It is being prepared with cleaned samples, new appends and extras, with its detailed specification to be finalized as the new material is completed.
+
+The voicebank family is intended for expressive phrasing, fast or rambling lines, chant-like parts, unusual character performances and subtle glitched ad-libs.
 
 ## Likes
 
@@ -39,7 +43,7 @@ Forgotten drafts and abandoned prototypes; weird tools and broken gadgets; half-
 
 ## Dislikes
 
-Awkward silences; over-polished corporate mixes; permanent file deletion and vanished autosaves; strict genre labels and rigid workflows; unexpected folder renames or broken file paths; deadlines that kill experimentation; collaborations where he is treated like a preset.
+Awkward silences; over-polished corporate mixes; permanent file deletion and vanished autosaves; rigid gender expectations; strict genre labels and workflows; unexpected folder renames or broken file paths; deadlines that kill experimentation; collaborations where the voice is treated like a preset.
 
 ## Relationships
 
