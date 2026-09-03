@@ -16,10 +16,29 @@ Each generation records another stage of the same voicebank's development. The p
 
 https://ilyaminineli.github.io/Iirai/
 
-## Quick Links
+## Read the generations
 
-- [Download](https://github.com/ilyaminineli/Iirai/releases)
-- [Documentation](docs/README.md)
+- [イーライ — Generation 1 profile](iirai.html)
+- [茜音イーライ — Generation 2 profile](akane-iirai.html)
+- [茜音イーライ・暁 — Generation 3 profile](akane-iirai-akatsuki.html)
+- [Three-generation Character page](character.html)
+- [Lineup](info.html)
+
+## Downloads
+
+### イーライ
+
+- [GitHub Release](https://github.com/ilyaminineli/Iirai/releases/tag/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll](https://bowlroll.net/file/349204)
+
+### 茜音イーライ
+
+- [GitHub Release](https://github.com/ilyaminineli/Iirai/releases/tag/%E8%8C%9C%E9%9F%B3%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4)
+- [BowlRoll](https://bowlroll.net/file/350273)
+
+## Documentation
+
+- [Documentation hub](docs/README.md)
 - [Official Manual](docs/MANUAL.md)
 - [Technical Specification](docs/VOICEBANK.md)
 - [Usage Guide](docs/USAGE.md)
@@ -50,7 +69,7 @@ https://ilyaminineli.github.io/Iirai/
 
 暁 is the next recording stage of the same character and voicebank line. The planned revision includes cleaned existing material, additional appends and extras, and a new visual presentation.
 
-The GitHub Pages site already contains the generation-specific asset path. The current 暁 artwork is intentionally a placeholder until the design is finalized.
+The current 暁 artwork is intentionally a placeholder until the design is finalized.
 
 ## Voice-provider context
 
@@ -69,11 +88,9 @@ The progression from イーライ to 茜音イーライ and then to 暁 is there
 - `docs/` — canonical documentation and project history
 - `metadata/` — machine-readable manifests
 - `sample.wav`, `solfege.wav` — current audio samples
-- `index.html` and the other root HTML files — GitHub Pages site
+- root HTML files — GitHub Pages site
 
 ## Character & Credits
-
-Current character documentation is maintained in [docs/CHARACTER.md](docs/CHARACTER.md). The released technical specification is maintained in [docs/VOICEBANK.md](docs/VOICEBANK.md).
 
 **Creator / Voice Provider:** Ilya Minin (Eli)  
 **Illustrator:** Schenchik  
@@ -81,7 +98,7 @@ Current character documentation is maintained in [docs/CHARACTER.md](docs/CHARAC
 
 ## Historical Reference
 
-The original **イーライ (Iirai)** remains part of the archive. The [UTAU Wiki page](https://utau.fandom.com/wiki/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4) is retained as a historical reference rather than the current technical source of truth.
+The original **イーライ (Iirai)** remains part of the archive. The [UTAU Wiki page](https://utau.fandom.com/wiki/%E3%82%A4%E3%83%BC%E3%83%A9%E3%82%A4) is retained as a historical reference.
 
 ## Source of Truth
 
