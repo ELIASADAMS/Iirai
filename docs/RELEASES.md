@@ -1,41 +1,40 @@
-# Akane Iirai Releases & Future Revisions
+# イーライ Releases & Future Revisions
 
-## Current baseline
+## Generation 1 — イーライ
 
-The current 茜音イーライ bank is an updated version of the original イーライ. The original release should remain preserved for reproducibility.
+The original voicebank. It remains preserved as the historical baseline and should not be silently replaced by later generations.
 
-## Already established in the updated bank
+## Generation 2 — 茜音イーライ
 
-- Three pitches: A3 / F3 / C3.
-- Improved phoneme clarity compared with the first iteration.
-- Clearer, more confident upper range while retaining the warm bass-leaning core.
-- Refined Moresampler-oriented expression workflow.
-- Recommended support for TIPS, Moresampler, WORLDLINE-R and wavtool4vcv.
+The established updated bank. The current technical specification documents three pitches (A3 / F3 / C3), improved phoneme clarity, a clearer upper range, and Moresampler-oriented expression workflow.
 
-A March 15, 2026 public release discussion also describes three pitches, better pronunciation/accent, a ready-to-play OpenUtau setup and refined Moresampler configuration. citeturn198529reddit22
+## Generation 3 — 茜音イーライ・暁
 
-## Future functions
+The incoming next generation. The recording pass is planned around cleaned samples plus new appends and extras, with a new visual design.
 
-Possible future revisions may add:
+Current status: **IN DEVELOPMENT**. The repository already contains a generation-specific asset folder with placeholder artwork so the website can be prepared before the final design is complete.
 
-- additional pitch layers for smoother register transitions;
-- dedicated soft, breathy, dark or strong tone variants;
-- expanded CVVC coverage and repaired aliases;
-- improved difficult-consonant recordings;
-- more detailed OpenUtau phonemizer configuration;
-- refined prefix maps and documented alias behavior;
-- dedicated expression recordings for tension, breathiness or growl;
-- fixed test phrases for regression comparison;
-- UST/USTX example projects;
-- automated validation of WAV files, aliases and oto.ini;
-- release manifests and checksums.
+### Planned development areas
+
+- cleaned and rechecked existing samples;
+- new append / expression recordings;
+- additional extras and non-lyrical material;
+- repaired or expanded aliases where needed;
+- updated OpenUtau / UTAU configuration;
+- fixed comparison phrases for regression testing;
+- release manifest and checksums;
+- generation-specific demos and documentation.
 
 ## Revision model
 
-### 1.x
+### 1.x — maintenance
 
-Maintenance and compatibility releases that preserve the current identity.
+Compatibility and repair releases that preserve the current generation identity.
 
-### 2.x
+### 2.x — major expansion
 
-Major expansion with new recordings, pitch/tone layers or substantial technical changes. Each major revision should have dedicated demos, documentation and a preserved archive of previous releases.
+Substantial changes to the established voicebank, including new pitches, tone layers or technical coverage.
+
+### 3.x — 暁 generation
+
+A new recording pass and presentation layer. Earlier releases remain archived while the new generation is developed.
