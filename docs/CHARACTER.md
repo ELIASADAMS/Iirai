@@ -12,21 +12,21 @@ Each generation remains a valid part of the project's history.
 
 ## A voice that keeps changing
 
-The voice has developed together with its real voice provider, **Ilya Minin (Eli)**. The original イーライ emerged from a more masculine vocal and visual position. With 茜音イーライ, the voice and character moved toward a more feminine, queer and openly gender-nonconforming expression.
+The voice has developed together with its real voice provider, **Ilya Minin (Eli)**. The original イーライ emerged from a more masculine vocal and visual position. With 茜音イーライ, the voice and character moved toward a softer, more feminine and less convention-bound expression.
 
-暁 continues that direction further. The third generation is intentionally more queer, more expressive and more comfortable occupying space outside conventional masculine/feminine categories.
+暁 continues that direction further. The third generation is intentionally more expressive and more comfortable occupying space outside conventional masculine/feminine categories.
 
 This is growth, not replacement. Earlier forms remain part of the same voicebank family and continue to have their own recordings, artwork and release history.
 
 ## Voice provider and self-expression
 
-The real voice provider, Ilya Minin (Eli), has come to understand himself as **non-binary** and is consciously finding a place between genders. The character's development follows that personal artistic discovery: moving away from a masculine origin that no longer feels representative, toward a more androgynous, queer and fluid form of expression.
+The real voice provider, Ilya Minin (Eli), has come to understand himself as non-binary and is consciously finding a place between genders. The character's development follows that personal artistic discovery: moving away from a masculine origin that no longer feels representative, toward a more androgynous, fluid and personally comfortable form of expression.
 
-The voicebank is also a record of that process. Its changing timbre and presentation are allowed to reflect changes in self-understanding rather than forcing the character into one permanent gender presentation.
+The voicebank is also a record of that process. Its changing timbre and presentation are allowed to reflect changes in self-understanding without forcing the character into one permanent presentation.
 
 ## Visual identity
 
-The visual language develops with each generation. Earlier イーライ material establishes the original form; 茜音イーライ introduces a more feminine and queer presentation; 暁 pushes the silhouette further into playful, theatrical and gender-nonconforming territory.
+The visual language develops with each generation. Earlier イーライ material establishes the original form; 茜音イーライ introduces a softer and more expressive presentation; 暁 pushes the silhouette further into playful, theatrical and deliberately ambiguous territory.
 
 The current 暁 artwork is provisional while the final design is being prepared.
 
@@ -40,7 +40,7 @@ Forgotten drafts, abandoned prototypes, strange tools, half-finished songs, mess
 
 ## Dislikes
 
-Awkward silence, over-polished corporate production, permanent deletion, rigid gender expectations, rigid workflows, unexplained folder changes, broken paths, deadlines that kill experimentation and being treated as a preset rather than a collaborator.
+Awkward silence, over-polished corporate production, permanent deletion, rigid expectations about how a voice or person is supposed to present, rigid workflows, unexplained folder changes, broken paths, deadlines that kill experimentation and being treated as a preset rather than a collaborator.
 
 ## Relationships
 
