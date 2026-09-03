@@ -1,32 +1,46 @@
-# 茜音イーライ (Akane Iirai) — Voicebank Specification
+# イーライ Voicebank Line — Voicebank Specification
 
-This is the canonical technical specification for the updated Akane Iirai voicebank, based on the supplied official manual.
+This is the canonical technical overview of the イーライ voicebank family. The project is developed as a continuous voicebank line whose recordings, expression and presentation can grow from one generation to the next.
 
 ## Identity
 
-- Name: 茜音イーライ (Akane Iirai)
+- Voicebank line: イーライ (Iirai)
+- Current named generation: 茜音イーライ・暁 (Akane Iirai · Akatsuki)
 - Engine: UTAU / UTAU-compatible workflows
 - Language: Japanese
 - Recording method: CVVC
 - Encoding: Romaji-encoded, CVVC aliased
-- Status: Updated version of the original イーライ (Iirai)
+
+## Generation structure
+
+### Generation 1 — イーライ
+
+The original voicebank and the starting point of the project. Its vocal and visual presentation has a more masculine origin than the later generations.
+
+### Generation 2 — 茜音イーライ
+
+The second generation expanded the recording and developed a more feminine, queer and gender-nonconforming vocal/character expression while retaining the core voice.
+
+The released bank has three pitches: A3 / F3 / C3. It provides improved phoneme clarity, a clearer and more confident upper range, and a warm, bass-leaning core.
+
+### Generation 3 — 茜音イーライ・暁
+
+The incoming third generation continues the same line with cleaned samples, new appends and extras, and a new visual design. The final technical specification will be expanded as the new recordings are completed.
+
+The current repository artwork for 暁 is intentionally provisional.
 
 ## Character / Credits
 
-- Gender: Fluid / Non-binary
+- Gender: Fluid / Non-binary character expression
 - Pronouns: he/him
-- Age: 24
-- Height: 170 cm
-- Weight: 51 kg
-- Species: Human (augmented)
-- Ethnicity: Slav/JP hybrid
-- Birthday: December 1, 2025
 - Creator: Ilya Minin (Eli)
 - Voice Provider: Ilya Minin (Eli)
 - Illustrator: Schenchik
 - OTO / Technical: eikton
 
-## Voicebank
+The real voice provider identifies as non-binary and is exploring a place between genders. The evolution of the character and voicebank intentionally follows that movement away from a masculine origin toward a more androgynous, queer and feminine/fluid expression.
+
+## Current released technical specification — 茜音イーライ
 
 - Pitches: A3 / F3 / C3
 - Range: G#3–D3
@@ -45,12 +59,12 @@ This is the canonical technical specification for the updated Akane Iirai voiceb
 - Tension (-200 to 200): Voice strength
 - Growl (0–100): Guttural effect
 
-## Updated-bank characteristics
+## Voicebank characteristics
 
-The manual describes this version as having improved phoneme clarity compared with the first iteration. The core tone remains warm and bass-leaning while the updated bank provides a smoother, more confident upper range that can cut through dense mixes without losing texture.
+The family is built around a warm, textured core with increasing access to upper-register and expressive material as the generations develop. The later generations are particularly suited to expressive phrasing, fast or rambling lines, chant-like parts and subtle glitched ad-libs.
 
-It is designed for expressive phrasing, especially fast or rambling lines, chant-like parts and subtle glitched ad-libs.
+The goal is not to freeze one “correct” form of the voice. The voicebank documents a living artistic process in which vocal timbre, gender expression and character presentation can change over time.
 
 ## Canonical source
 
-The supplied official Akane Iirai manual takes precedence over older repository text. The original イーライ Wiki page remains useful for historical context and legacy character information, but current release metadata must follow this document.
+For released technical values, the current official manual and release documentation are authoritative. Historical information about Generation 1 remains valuable for documenting the project's origin and should be kept alongside current generation metadata.
